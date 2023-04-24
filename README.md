@@ -1,2 +1,2 @@
 # Flappy-bird-GBA
-Port of the mobile game Flappy Bird to GameBoy Advance using Butano C++ library
+Another port of Flappy Bird for the GBA, this one using the modern C++ game engine [Butano](https://github.com/GValiente/butano) builded on top of [devkitARM](https://devkitpro.org/).
